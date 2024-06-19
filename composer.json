@@ -1,0 +1,19 @@
+{
+    "name": "ikadeknaryasa/chitos1",
+    "description": "contoh project sederhana",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ikadeknaryasa\\Chitos1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeynaryasa",
+            "email": "qy.naryasa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
